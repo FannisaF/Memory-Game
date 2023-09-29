@@ -5,7 +5,7 @@
 ##### Fannisa Firdaus - 1180505624
 ##### Muhammad Hanief Arrosyadi - 5190505041
 
-![Uygulama Arayüzü](https://thumbs.gfycat.com/BetterDeadlyFinwhale.webp)
+![MemoryGame](https://github.com/FannisaF/Memory-Game/assets/111955970/add18fd7-4bf6-4d7d-aa92-571a6ce4ba45)
 
 Hafıza oyunu, kullanıcının açılan resimlerin eşleşen resimlerini bulması gereken bir oyundur. 
 Uygulama açıldığında fotoğrafların tasarlanan boyuttaki görünmeyen yüzleri ekrana gelir ve birbirinin aynısı olan resimler ikişerli olarak eşleştirilir. 
